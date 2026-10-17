@@ -12,6 +12,7 @@ Raja alleged that the treatment of women protesters was intended to discourage t
 
 “To silence us, to disappear the women of this country who are participating in the protest and occupying the public space, the fascist Amit Shah government or Modi government are using sexual assault as a weapon irrespective of age,” she told ANI.
 
+<<<<<<< HEAD
 Another demonstrator accused the police of attempting to intimidate people protesting against the Election Commission.
 
 “The brutality shown by the Delhi Police should stop. No one can stop us from protesting against the ECI; this is our democratic right. We cannot tolerate the shamelessness shown by the police towards the women protesters,” the activist said.
@@ -36,3 +37,15 @@ Bora was released early Saturday after being held overnight, while police initia
 The detentions drew criticism from opposition parties and student organisations, which questioned the restrictions imposed on protesters.
 
 The women’s organisations, meanwhile, maintained that their demonstrations would continue until action was taken over the alleged misconduct and the authorities addressed their demands.
+=======
+She demanded accountability for the alleged misconduct and accused the Union Home Minister of responsibility for the actions of police personnel.
+
+The CPI leader maintained that the allegations would not deter women from participating in demonstrations.
+
+“Whatever may be your strategy to suppress us, oppress us, disappear us, the women of this country, we will come here, we will occupy the public space in hundred times more strength,” she said.
+
+Women protesters allege inappropriate touching during demonstrations
+Activists at the protest alleged that police personnel had subjected women to inappropriate physical contact while handling demonstrations in the national capital.
+
+“We have never seen such incidents in this country where women protestors are facing sexual harassment at the hands of police. During recent protests, we have seen incidents of police touching the women protestors’ body parts inappropriately; this is something that never happened before,” an activist told IANS.
+>>>>>>> stage
